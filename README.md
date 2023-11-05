@@ -105,16 +105,16 @@ def sarsa(env,
 
 ## OUTPUT:
 ### Optimal State Value Functions:
-![image](.git/Assets/1.png)
+![image](./1.png)
 ### Optimal Action Value Functions:
-![image](.git/Assets/2.png)
+![image](./2.png)
 
 </br>
 
 ### First Visit Monte Carlo Estimates
-![image](.git/Assets/3.png)
+![image](./3.png)
 ### Sarsa Estimates:
-![image](.git/Assets/4.png)
+![image](./4.png)
 
 </br>
 
@@ -122,4 +122,4 @@ def sarsa(env,
 Thus the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
 
 
-["G:/sem5/Rein Learn/sarsa-learning-main/.git/Assets/1.png"]: ".git/Assets/1.png"
+["G:/sem5/Rein Learn/sarsa-learning-main/./1.png"]: "./1.png"
